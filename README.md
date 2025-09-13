@@ -16,3 +16,9 @@ homeassistant:
   packages: !include_dir_merge_named packages/
 ```
 5. Restart HA
+
+# Revision Log
+| Version | Date | Files updated |Description |
+|:------|:--------:|:------|:------|
+| v1.1.0  | **13/09/25** | All | Tidy up|
+| v1.0.0  | **12/09/25** | All | Major refactor |
