@@ -20,5 +20,6 @@ homeassistant:
 # Revision Log
 | Version | Date | Files updated |Description |
 |:------|:--------:|:------|:------|
+| v1.2.0  | **07/10/25** | sensor.yaml <br> templates.yaml | Increased reliabilty |
 | v1.1.0  | **13/09/25** | All | Tidy up|
 | v1.0.0  | **12/09/25** | All | Major refactor |
